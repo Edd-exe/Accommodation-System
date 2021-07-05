@@ -1,0 +1,1049 @@
+C:\Users\MONSTER\source\repos\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\source\repos\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\source\repos\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\source\repos\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\source\repos\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\source\repos\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\source\repos\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\source\repos\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.Core.dll
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\gokya\Desktop\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\III. SENE\yurtprojesi\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\gokya\Desktop\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+D:\sonun sonu\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+D:\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+D:\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+D:\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+D:\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+D:\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+D:\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+D:\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+D:\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+D:\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+D:\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+D:\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+D:\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+D:\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+D:\sonun sonu\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje13.12\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje14.12.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje14.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\proje15.12.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje15.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje15.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje15.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\proje15.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje16.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form11.resources
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje17.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form11.resources
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockA.resources
+C:\Users\MONSTER\Desktop\proje17.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockB.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockA.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockB.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockC.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form11.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\proje18.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockD.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockA.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockB.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockC.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockD.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form11.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\gokya\Desktop\proje18.5\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockA.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockB.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockC.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockD.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form11.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje19.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockA.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockB.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockC.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockD.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form11.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje19.2\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockA.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockB.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockC.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockD.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form11.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\proje19.3\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockA.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockB.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockC.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockD.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form11.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\gokya\Desktop\19.4\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form12.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockA.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockB.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockC.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockD.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form11.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form12.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\gokya\Desktop\19.5\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockA.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockB.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockC.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockD.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form11.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form12.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form13.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\gokya\Desktop\19.6\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockA.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockB.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockC.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockD.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form11.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form12.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form13.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\24.1\19.7\proje19.4\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockA.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockB.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockC.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockD.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form11.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form12.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form13.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockA.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockB.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockC.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockD.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form11.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form12.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form13.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Desktop\24.4\24.1\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\yurtprojesi.pdb
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csprojAssemblyReference.cache
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe.config
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockA.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockB.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockC.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.BlockD.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form1.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form10.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form11.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form12.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form13.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form2.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form3.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form4.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form5.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form6.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form7.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form8.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Form9.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.Properties.Resources.resources
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.csproj.CopyComplete
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.exe
+C:\Users\MONSTER\Projects\CSharp\yurtprojesi\yurtprojesi\obj\Debug\yurtprojesi.pdb
